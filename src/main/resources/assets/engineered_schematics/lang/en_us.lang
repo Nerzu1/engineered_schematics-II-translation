@@ -45,6 +45,42 @@ desc.engineered_schematics.multiblock.IE:Feedthrough=Feedthrough Insulator
 desc.engineered_schematics.multiblock.IP:DistillationTower=Distillation Tower
 desc.engineered_schematics.multiblock.IP:Pumpjack=Pumpjack
 
+# Multiblock names, sourced from Immersive Intelligence's own block names (0.3.1-Dev6)
+desc.engineered_schematics.multiblock.II:SkycratePost=Skycrate Post
+desc.engineered_schematics.multiblock.II:SkycrateStation=Skycrate Station
+desc.engineered_schematics.multiblock.II:Sawmill=Sawmill
+desc.engineered_schematics.multiblock.II:SkycartStation=Skycart Station
+desc.engineered_schematics.multiblock.II:RadioStation=Radio Station
+desc.engineered_schematics.multiblock.II:PrintingPress=Printing Press
+desc.engineered_schematics.multiblock.II:DataInputMachine=Data Input Machine
+desc.engineered_schematics.multiblock.II:ArithmeticLogicMachine=Arithmetic Logic Machine
+desc.engineered_schematics.multiblock.II:ChemicalBath=Chemical Bath
+desc.engineered_schematics.multiblock.II:Electrolyzer=Electrolyzer
+desc.engineered_schematics.multiblock.II:PrecisionAssembler=Precision Assembler
+desc.engineered_schematics.multiblock.II:BallisticComputer=Ballistic Computer
+desc.engineered_schematics.multiblock.II:ArtilleryHowitzer=Artillery Howitzer
+desc.engineered_schematics.multiblock.II:ScanningConveyor=Scanning Conveyor
+desc.engineered_schematics.multiblock.II:Packer=Packer
+desc.engineered_schematics.multiblock.II:RedstoneDataInterface=Redstone Data Interface
+desc.engineered_schematics.multiblock.II:Filler=Filler
+desc.engineered_schematics.multiblock.II:Coagulator=Coagulator
+desc.engineered_schematics.multiblock.II:ProjectileWorkshop=Projectile Workshop
+desc.engineered_schematics.multiblock.II:AmmunitionAssembler=Ammunition Assembler
+desc.engineered_schematics.multiblock.II:FuelStation=Fuel Station
+desc.engineered_schematics.multiblock.II:VehicleWorkshop=Vehicle Workshop
+desc.engineered_schematics.multiblock.II:Flagpole=Flagpole
+desc.engineered_schematics.multiblock.II:Radar=Radar
+desc.engineered_schematics.multiblock.II:Emplacement=Emplacement
+desc.engineered_schematics.multiblock.II:ChemicalPainter=Chemical Painter
+desc.engineered_schematics.multiblock.II:Vulcanizer=Vulcanizer
+desc.engineered_schematics.multiblock.II:HeavyAmmunitionAssembler=Heavy Ammunition Assembler
+desc.engineered_schematics.multiblock.II:WoodenFenceGate=Wooden Fence Gate
+desc.engineered_schematics.multiblock.II:WoodenChainFenceGate=Wooden Chain Fence Gate
+desc.engineered_schematics.multiblock.II:SteelFenceGate=Steel Fence Gate
+desc.engineered_schematics.multiblock.II:SteelChainFenceGate=Steel Chain Fence Gate
+desc.engineered_schematics.multiblock.II:AluminiumFenceGate=Aluminium Fence Gate
+desc.engineered_schematics.multiblock.II:AluminiumChainFenceGate=Aluminium Chain Fence Gate
+
 #MANUAL
 ie.manual.category.engineered_schematics.name=Engineered Schematics
 ie.manual.entry.es.name=Introduction
